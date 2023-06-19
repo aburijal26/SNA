@@ -1,6 +1,8 @@
 # Analisis Degree Centrality dan Tweet Terkait dalam Jaringan Retweet (Final Project SNA)
 Ini adalah repository yang berisi kode Python untuk melakukan analisis degree centrality pada jaringan retweet dan menampilkan tweet terkait untuk pengguna dengan degree centrality tertinggi. Proyek ini merupakan bagian dari tugas akhir dalam mata kuliah Social Network Analysis (SNA).
 
+[Link Dataset](https://docs.google.com/spreadsheets/d/1I2TDirC2ojheIGeAfxeoE_6Lox7ranN3/edit?usp=sharing&ouid=103301499930518399591&rtpof=true&sd=true)
+
 # Deskripsi
 Kode ini memanfaatkan library NetworkX untuk membangun graf jaringan retweet dari dataset yang diberikan. Kemudian, dilakukan perhitungan degree centrality untuk setiap simpul (pengguna) dalam jaringan retweet. Hasilnya adalah top 5 pengguna dengan degree centrality tertinggi.
 
